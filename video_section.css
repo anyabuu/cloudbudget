@@ -1,3 +1,14 @@
-h2 {
-    
+.video_section {
+    color:#000000;
+}
+
+.video_section h2 {  
+    font-size: 3.6rem;
+    line-height: 1.2;
+}
+
+.video_section p {
+    font-weight: 400;
+    font-size: 1.6rem;
+    line-height: 1.4;
 }
