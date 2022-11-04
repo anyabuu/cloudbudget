@@ -6,12 +6,17 @@ body,
 html {
     font-family: "Lato";
     font-weight: 600;
-    color: #FFFFFF;
     font-size: 10px;
 }
 
 .container {
-    max-width: 1440px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.small-container {
+    width: 1110px;
     margin-left: auto;
     margin-right: auto;
 }

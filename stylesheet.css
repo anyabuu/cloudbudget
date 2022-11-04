@@ -2,3 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap');
 @import "general.css";
 @import "hero.css";
+@import "description.css";
+@import "features.css";
+@import "technology.css";
+@import "location.css";

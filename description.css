@@ -1,0 +1,29 @@
+.description__container {
+    padding-top: 94px;
+    padding-bottom: 95px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.description__content {
+    width: 445px;
+}
+
+.description__title {
+    font-size: 3.6rem;
+    font-weight: 600;
+    line-height: 1.1;
+    padding-bottom: 56px;
+}
+
+.description__text {
+    font-size: 1.6rem;
+    font-weight: 400;
+    line-height: 1.5;
+    text-align: justify;
+}
+
+.description__image {
+    width: 540px;
+}

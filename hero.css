@@ -1,13 +1,12 @@
 .hero {
-    width: 1440px;
     min-height: 100vh;
     padding: 58px;
     display: flex;
     flex-direction: column;
     background-image: linear-gradient(90deg, rgba(213, 32, 71, 0.8) 0%, rgba(238, 61, 27, 0.8) 100%), 
     url(images/background_image.jpg);
+    color: #FFFFFF;
 }
-
 
 .navigation_content {
     text-transform: uppercase;
@@ -23,17 +22,19 @@
 }
 
 .logo a {
-    font-size: 1.8rem; 
+    font-size: 1.8rem;
 }
 
 .hero nav ul {
     font-size: 1.4rem;
+    font-weight: 400;
+    line-height: 1.2;
     display: flex;
     gap: 20px;
-    
 }
 
 .login_button {
+    width: 100px;
     display: flex;
 }
 
@@ -62,10 +63,11 @@
 
 .text p {
     font-size: 2.4rem;
-    line-height: 1.5;
+    line-height: 1.7;
+    font-weight: 400;
     margin-bottom: 60px;
     text-align: center;
-
+    width: 470px;
 }
 
 .sign_button a {
@@ -79,6 +81,11 @@
     background-color: #FFFFFF;
     padding: 22px 53px;
     border-radius: 6px; 
+}
+
+.sign_link {
+    width: 100%;
+    text-align: center;
 }
 
 
