@@ -1,0 +1,55 @@
+.footer__container {
+    padding-top: 89px;
+    padding-bottom: 79px;
+    background-color: #FAFAFA;
+}
+
+.footer__list {
+    display: flex;
+    justify-content: space-between;
+    gap: 31px;
+}
+
+.footer__title{
+    font-size: 1.8rem;
+    font-weight: 700;
+    line-height: 1.1;
+    padding-bottom: 33px;
+}
+
+.footer__text {
+    font-size: 1.4rem;
+    font-weight: 400;
+    line-height: 1.5;
+}
+
+.footer__address {
+    width: 180px;
+}
+
+.footer__link-list {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.footer__link-tel {
+    display: block;
+    padding-bottom: 20px;
+    padding-top: 8px;
+}
+
+.footer__socials-list {
+    display: flex;
+    gap: 15px;
+    align-items: center;
+}
+
+.footer__support-logo {
+    width: 216px;
+}
+
+.footer__license {
+    padding-top: 68px;
+}
+
