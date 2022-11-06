@@ -43,6 +43,7 @@
     padding: 11px 28px;
     border-radius: 6px;
     text-align: center;
+    cursor: pointer;
 }
 
 .header__content {
