@@ -5,20 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="101a6451-a35a-4947-aa43-c3bee089706b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/contact.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/description.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/description.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/features.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/features.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/fonts.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/footer.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/general.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/general.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hero.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/hero.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/location.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/location.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reset.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/reset.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/stylesheet.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/technology.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/technology.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,6 +62,12 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/css" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -83,7 +76,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667593476039</updated>
-      <workItem from="1667593479568" duration="15252000" />
+      <workItem from="1667593479568" duration="15520000" />
     </task>
     <servers />
   </component>
